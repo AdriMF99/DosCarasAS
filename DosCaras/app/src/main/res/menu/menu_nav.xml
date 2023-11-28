@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navReiniciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_restart_alt_24"
+        android:iconTint="@color/white"
+        android:title="Reiniciar" />
+    <item
+        android:id="@+id/navZelda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/dog_face_svgrepo_com"
+        android:title="Zelda" />
+    <item
+        android:id="@+id/navArmas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/hamburger_svgrepo_com"
+        android:title="Armas" />
+    <item
+        android:id="@+id/navPokemon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/lion_svgrepo_com"
+        android:title="Pokemon" />
+</menu>
